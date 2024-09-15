@@ -43,7 +43,7 @@ To run the tutorials, ensure you have Python and the necessary libraries install
 Each tutorial is provided in a separate Jupyter Notebook file. To explore the tutorials, run `jupyter notebook` in your terminal and navigate to the `.ipynb` file for each topic to get started with hands-on examples.
 
 ## Contributing
-We welcome contributions! Whether you're fixing a bug, adding new tutorials, or improving the content, feel free to contribute.
+Contributions are welcome! Whether you're fixing a bug, adding new tutorials, or improving the content, feel free to contribute.
 
 To contribute:
 1. Fork the repository.
